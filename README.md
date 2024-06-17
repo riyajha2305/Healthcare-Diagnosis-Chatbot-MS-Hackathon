@@ -28,8 +28,8 @@ To run the Healthcare Chatbot locally, follow these steps:
    cd Healthcare-Diagnosis-Chatbot
    ```
 2. **Install dependencies**:
-  ```
-  pip install -r requirements.txt
+   ```
+     pip install -r requirements.txt
    ```
 3. **Download Spacy**:
    ```
@@ -50,9 +50,9 @@ To run the Healthcare Chatbot locally, follow these steps:
 ## Usage
 
 1. **Run the Application**
-```
-python3 ./HealthCare_App.py
-```
+   ```
+   python3 ./HealthCare_App.py
+   ```
 
 2. **Enter Symptoms**
 Use the GUI interface to enter symptoms. The chatbot will predict potential diseases based on the symptoms provided.
