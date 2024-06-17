@@ -1,5 +1,5 @@
-# Healthcare Chatbot
-![image_1](https://github.com/riyajha2305/Healthcare-Diagnosis-Chatbot-MS-Hackathon/blob/main/HealthCare_ChatBot/images/1.png)
+# Healthcare Diagnosis Chatbot
+
 ## Project Overview
 
 The Healthcare Chatbot is a Python-based desktop application designed to predict potential diseases based on user-entered symptoms. It leverages natural language processing (NLP) techniques and a pretrained Named Entity Recognition (NER) model from Huggingface to extract disease names from user input.
