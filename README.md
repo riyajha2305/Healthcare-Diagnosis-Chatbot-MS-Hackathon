@@ -62,3 +62,7 @@ Output Image
 The chatbot will display the predicted diseases or health conditions corresponding to the symptoms entered.
 
 ## Application Overview
+![image_1](https://drive.google.com/file/d/1tuvJiySxfmPC8jXIgH82Vy9Z4BngRVte/view?usp=drive_link)
+![image_2](https://drive.google.com/file/d/124FCvOuV_RmSGix_DD7qFqB5gOtCNTrS/view?usp=drive_link)
+![image_3](https://drive.google.com/file/d/1zcHBhc2wieW9pTGURs4rChomNQAwpibV/view?usp=drive_link)
+![image_4](https://drive.google.com/file/d/1Kt9LdqS6yhy9bl3bowxxtW50d6IL0qMT/view?usp=drive_link)
